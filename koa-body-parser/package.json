@@ -1,0 +1,18 @@
+{
+  "name": "koa-body-parser",
+  "version": "1.0.0",
+  "description": "koa-body-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bodyParser"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^3.2.0"
+  }
+}
