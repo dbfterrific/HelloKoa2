@@ -1,0 +1,19 @@
+{
+  "name": "static-use-middleware",
+  "version": "1.0.0",
+  "description": "use middleware to study static server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "middleware"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-static": "^3.0.0"
+  }
+}
