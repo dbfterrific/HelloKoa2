@@ -1,0 +1,19 @@
+{
+  "name": "koa-session",
+  "version": "1.0.0",
+  "description": "next session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sessioin"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-mysql-session": "0.0.2",
+    "koa-session-minimal": "^3.0.4"
+  }
+}

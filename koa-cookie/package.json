@@ -1,0 +1,17 @@
+{
+  "name": "koa-cookie",
+  "version": "1.0.0",
+  "description": "about cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
