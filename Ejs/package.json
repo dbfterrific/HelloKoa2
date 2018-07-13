@@ -1,0 +1,19 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "使用模板引擎",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "模板引擎"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.5.2",
+    "koa-views": "^6.1.4"
+  }
+}
