@@ -1,0 +1,18 @@
+{
+  "name": "busboy",
+  "version": "1.0.0",
+  "description": "busboy 模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "busboy"
+  ],
+  "author": "bangfu.dbf",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "koa": "^2.5.2"
+  }
+}
