@@ -2,9 +2,13 @@ const inspect = require('util').inspect
 const path = require('path')
 const fs = require('fs')
 const Busboy = require('busboy')
+const app = new Koa()
 
 // req 为node原生请求
-const busboy = new Busboy({ headers: req.headers })
+app.use(async (cxt) => {
+  const req = cxt.req
+  const busboy = new Busboy({ headers: req.headers })
+})
 
 // ...
 
